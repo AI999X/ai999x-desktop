@@ -32,6 +32,8 @@ From the [releases](https://github.com/AI999X/ai999x-desktop/releases).
 | `ai999x-civil-engineering-1.6.6-windows-x86_64.zip` | 19.6 MB |
 | `ai999x-classical-physics-1.6.6-linux-x86_64.tar.gz` | 20.0 MB |
 | `ai999x-classical-physics-1.6.6-windows-x86_64.zip` | 19.2 MB |
+| `ai999x-cli-1.6.6-linux-x86_64.tar.gz` | 113.3 MB |
+| `ai999x-cli-1.6.6-windows-x86_64.zip` | 111.0 MB |
 | `ai999x-computational-biology-1.6.6-linux-x86_64.tar.gz` | 20.8 MB |
 | `ai999x-computational-biology-1.6.6-windows-x86_64.zip` | 20.0 MB |
 | `ai999x-control-systems-1.6.6-linux-x86_64.tar.gz` | 20.4 MB |
@@ -88,8 +90,6 @@ From the [releases](https://github.com/AI999X/ai999x-desktop/releases).
 | `ai999x-time-series-1.6.6-windows-x86_64.zip` | 19.4 MB |
 | `ai999x-transportation-1.6.6-linux-x86_64.tar.gz` | 20.1 MB |
 | `ai999x-transportation-1.6.6-windows-x86_64.zip` | 19.3 MB |
-
-The command-line programs are version 1.6.4: `ai999x-cli-1.6.4-*` in [release v1.6.4](https://github.com/AI999X/ai999x-desktop/releases/tag/v1.6.4).
 
 Windows: unzip and double-click `ai999x.exe` (no installer). Linux: extract and run `./ai999x`.
 Check a download against `SHA256SUMS` (`sha256sum -c SHA256SUMS`).
